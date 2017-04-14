@@ -1,0 +1,35 @@
+
+
+#contenedor{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+}
+
+body{
+	background-image: url(../img/blanco.jpg);/*Parea establecer la ruta de la imagen*/
+	background-repeat: no-repeat;/*Para que la imagen no se duplique*/
+	background-size: cover;/*Para que la imagen se ajuste al contenido de la pagina*/
+}
+}
+
+h2{
+	font-family: verdana;
+	color: #004669;
+	margin-left: 20px;
+	font-size: 40px;
+	text-align: center;
+}
+	
+
+h4{
+	font-family: verdana;
+	
+	margin-left: 20px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	font-size: 20px;
+	text-align: left;
+	
+}
